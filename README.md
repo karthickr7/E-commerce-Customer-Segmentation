@@ -11,3 +11,9 @@ customers with similar interest.
 # Dataset Information:
   The data was collected from a well known e-commerce website over a
 period of time based on the customer’s search profile.
+# Scope:
+  ● Analyzing the existing customer data and getting valuable insights
+about the purchase pattern
+  ● Data pre-processing including missing value treatment
+  ● Segmenting customer based on the optimum number of clusters (‘k’)
+with the help of silhouette score
