@@ -16,4 +16,8 @@ period of time based on the customer’s search profile.
 about the purchase pattern
   ● Data pre-processing including missing value treatment
   ● Segmenting customer based on the optimum number of clusters (‘k’)
-with the help of silhouette score
+with the help of silhouette score.
+# Learning Outcome:
+  The students will get a better understanding of how the variables are
+linked to each other and will be able to apply cluster analysis to business
+problem such as customer segmentation.
